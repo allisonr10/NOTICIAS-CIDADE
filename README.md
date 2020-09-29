@@ -1,2 +1,2 @@
 # NOTICIAS-CIDADE
- um dos meus primeiros projetos, utilizando HTML e CSS
+ Um dos meus primeiros projetos, utilizando HTML e CSS. Criei um site ficticio de notícias como projeto das aulas do professor Jamilton Damasceno.
